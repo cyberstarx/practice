@@ -1,4 +1,5 @@
-#Snake Tutorial Python
+#Snake Python
+#this was run and debugged while crying a bucket of tears
  
 import math
 import random
